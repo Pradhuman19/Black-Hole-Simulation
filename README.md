@@ -1,7 +1,21 @@
 # 🕳️ Black Hole Simulation
 
-A high-performance C++ and OpenGL implementation of a Schwarzschild Black Hole simulation. This project features real-time ray tracing (using Compute Shaders) to accurately visualize gravitational lensing, accretion disks, and spacetime curvature.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Screenshots/demo1.png" alt="Static view of the black hole with accretion disk" style="width: 100%;">
+      <br>
+      <sub><b>Figure 1:</b> High-resolution static view of gravitational lensing and the accretion disk.</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="Screenshots/demo2.gif" alt="Animated view showing spacetime distortion" style="width: 100%;">
+      <br>
+      <sub><b>Figure 2:</b> Real-time animation demonstrating spacetime curvature and movement.</sub>
+    </td>
+  </tr>
+</table>
 
+A high-performance C++ and OpenGL implementation of a Schwarzschild Black Hole simulation. This project features real-time ray tracing (using Compute Shaders) to accurately visualize gravitational lensing, accretion disks, and spacetime curvature.
 ## **✨ Features**
 
 * **🔭 Gravitational Lensing:** Simulates the bending of light around a massive object using general relativity equations.
